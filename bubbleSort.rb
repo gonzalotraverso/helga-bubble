@@ -4,3 +4,4 @@ class Array
 end
 p "'ello g'vner!"
 p "dickwheed"
+p "git is mean"
